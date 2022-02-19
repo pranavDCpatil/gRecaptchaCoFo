@@ -41,9 +41,9 @@
                 <textarea placeholder="Description..." tabindex="7" name="description" required></textarea>
             </fieldset>
 
-            <!-- <fieldset>
+            <fieldset>
             <div class="g-recaptcha" data-sitekey="6LfGR4ceAAAAAOBTQ_0XmJbXWRyFxT-hJlVlTmFp"></div>
-            </fieldset> -->
+            </fieldset>
 
             <fieldset>
                 <button name="submit" type="submit" id="contact-submit" data-submit="...Sending">
